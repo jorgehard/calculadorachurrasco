@@ -1,6 +1,8 @@
 # Calculadora de Churrasco [Projeto Gama Academy]
 > Projeto simples, feito em um desafio durante a tarde na gama academy #xp29
 
+![Screenshot](example.jpg)
+
 Criar uma aplicação responsiva que calcule, a partir do número de pessoas e horas, os insumos necessários para a realização de um churrasco (litros de cerveja, refrigerante e quilos de carne/vegetais).
 
 100g de comida por pessoa/h;
