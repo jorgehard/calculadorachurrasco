@@ -1,0 +1,22 @@
+*{
+    background: #f3f3f3;
+}
+.topNav{
+    background:#333;
+    height:45px;
+    color:#f3f3f3;
+    font-family: 'Lobster', cursive;
+}
+.bg-cal{
+    min-height:350px;
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-image: url("../assets/bg-carne.jpg");
+}
+.form-box{
+    height:50%;
+}
+.form-box h2{
+    font-family: 'Open Sans', sans-serif;
+}
